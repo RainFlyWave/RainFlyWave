@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## I'm Samson Kustra and currently I'm studying at Politechnika Śląska
+# Bio:
+I'm Samson Kustra and currently I'm studying at Politechnika Śląska
+
 # Tech stack:
 - Javascript (Vanilla, ReactJS)
 - Python (Vanilla, Flask, Django)
