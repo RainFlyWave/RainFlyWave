@@ -4,7 +4,7 @@
 I'm Samson Kustra and currently I'm studying at Politechnika Śląska
 ICT Specialist
 
-- 🌱 I’m currently learning Django, Flask, GraphQL, ReactJS.
+- 🌱 I’m currently learning Django REST API, Docker, ReactJS
 - 🤔 I’m looking for help with making sure that everything is protected and safe.
 - 💬 Ask me about anything
 - 📫 How to reach me: rainflywave@gmail.com
