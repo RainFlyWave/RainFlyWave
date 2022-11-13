@@ -3,7 +3,7 @@
 # Bio:
 I'm Samson Kustra and currently I'm studying at Politechnika Śląska
 
-#Working as ICT Specialist
+# Working as: Junior Python Developer
 
 - 🌱 I’m currently learning Django REST API, Docker, ReactJS
 - 🤔 I’m looking for help with making sure that everything is protected and safe.
@@ -16,5 +16,6 @@ I'm Samson Kustra and currently I'm studying at Politechnika Śląska
 # Tech stack:
 - Javascript (Vanilla, ReactJS)
 - Python (Vanilla, Flask, Django)
+- C# (in progress)
 
 
